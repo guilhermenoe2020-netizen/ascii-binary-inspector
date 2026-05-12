@@ -4,6 +4,14 @@ Um projeto em linguagem C desenvolvido para explorar conceitos de baixo nível c
 
 ---
 
+## Preview
+
+![tabela](screenshorts/tabela.png)
+
+## ASCII Converter
+
+![Converter](screenshorts/conversor.png)
+
 ## Funcionalidades
 
 * Leitura de caracteres digitados pelo usuário
