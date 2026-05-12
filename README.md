@@ -38,15 +38,6 @@ Um projeto em linguagem C desenvolvido para explorar conceitos de baixo nível c
 
 ---
 
-## Exemplo
-
-```txt
-Caractere: A | Valor ASCII:  65 | Binario: 01000001
-Caractere: B | Valor ASCII:  66 | Binario: 01000010
-```
-
----
-
 ## Tecnologias
 
 * Linguagem C
