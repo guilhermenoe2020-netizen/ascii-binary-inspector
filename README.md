@@ -50,8 +50,3 @@ Um projeto em linguagem C desenvolvido para explorar conceitos de baixo nível c
 
 Este projeto foi criado com foco em aprendizado prático de programação em C, explorando como caracteres são representados internamente pelo computador através de ASCII e binário.
 
----
-
-## Autor
-
-Guilherme Noé
