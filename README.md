@@ -28,7 +28,6 @@ Um projeto em linguagem C desenvolvido para explorar conceitos de baixo nível c
 ## Conceitos praticados
 
 * `getchar()`
-* `EOF` (`Ctrl + Z`)
 * Vetores (`arrays`)
 * Loops (`for` e `while`)
 * Manipulação de buffer
